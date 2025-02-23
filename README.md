@@ -2,3 +2,4 @@ This repository contains files useful for studying NLP (Natural Language Process
 Follow this sequence:
 1. Tokenization
 2. Stemming
+3. Lemmatization
