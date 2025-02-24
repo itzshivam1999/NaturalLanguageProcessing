@@ -4,3 +4,4 @@ Follow this sequence:
 2. Stemming
 3. Lemmatization
 4. Stopwords
+5. Understanding parts of speech tags
