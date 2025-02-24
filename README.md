@@ -5,3 +5,4 @@ Follow this sequence:
 3. Lemmatization
 4. Stopwords
 5. Understanding parts of speech tags
+6. Named entity recognition
