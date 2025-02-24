@@ -14,3 +14,4 @@ This repository contains files useful for studying NLP (Natural Language Process
 ## Vectorization (converting words to vectors):
 
 8. Bag of Words
+9. Term Frequency-Inverse Document Frequency (TF-IDF)
