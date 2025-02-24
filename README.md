@@ -1,4 +1,4 @@
-# NLP (Natural Language Processing) Study Resources
+# NLP (Natural Language Processing):
 
 This repository contains files useful for studying NLP (Natural Language Processing).
 
