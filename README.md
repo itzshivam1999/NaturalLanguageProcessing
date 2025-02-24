@@ -6,3 +6,4 @@ Follow this sequence:
 4. Stopwords
 5. Understanding parts of speech tags
 6. Named entity recognition
+7. Bag of Words
