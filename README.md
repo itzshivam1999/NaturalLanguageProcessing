@@ -17,7 +17,7 @@ This repository contains files useful for studying NLP (Natural Language Process
 9. Term Frequency-Inverse Document Frequency (TF-IDF)
 10. Word2Vec by Google
 
-## Projects on NLP:
+## Projects in NLP:
 
 11. Sentiment Analysis using NLP
 12. Project Report
